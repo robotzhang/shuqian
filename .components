@@ -1,0 +1,9 @@
+---
+:orm: activerecord
+:test: none
+:mock: none
+:script: jquery
+:renderer: slim
+:stylesheet: none
+:namespace: Shuqian001Com
+:migration_format: number
